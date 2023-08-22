@@ -5,6 +5,12 @@
 
 ![](https://github.com/erma0x/gexxer/blob/main/documents/plot%20output/Screenshot%20from%202023-05-30%2000-18-14.png)
 
+### Mathematical model of GEX
+
+```
+GEX = (open interest calls * calls gamma) - (open interest puts * puts gamma)
+```
+
 The code provided implements a trading strategy based on an indicator calculated using data on the strike price, open interest and range of call and put options, together with historical prices of the underlying and the VIX. Below is the documentation for the code:
 
 1. **Importing required libraries:**
