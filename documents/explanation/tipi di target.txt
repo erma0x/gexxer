@@ -1,0 +1,9 @@
+
+
+target statico 
+
+target sulle medie mobili
+
+target dinamico sull ADR average daily range
+
+target  dinamico sul VWAP

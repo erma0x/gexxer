@@ -1,0 +1,7 @@
+    Modello Black-Scholes: Questo è un modello matematico ampiamente utilizzato per valutare le opzioni finanziarie. Sebbene non sia specificamente mirato a prevedere i livelli di supporto e resistenza, può fornire una valutazione teorica del prezzo delle opzioni in base a fattori come il prezzo dell'azione sottostante, il prezzo di esercizio, la volatilità, il tempo rimanente e il tasso di interesse senza rischio.
+
+    Analisi delle volatilità implicite: L'analisi della volatilità implicita, ossia la volatilità attesa incorporata nei prezzi delle opzioni, può fornire indicazioni sulle aspettative del mercato riguardo alle fluttuazioni future dei prezzi delle azioni sottostanti. Monitorare i cambiamenti nella volatilità implicita può aiutare i trader a identificare potenziali livelli di supporto e resistenza.
+
+    Open Interest e Volume: L'open interest, che rappresenta il numero totale di contratti di opzione in circolazione, insieme al volume di negoziazione, può fornire informazioni sull'interesse degli investitori e sull'attività del mercato. L'analisi di queste metriche può aiutare a identificare livelli significativi di supporto e resistenza in base agli ordini istituzionali.
+
+    Analisi dei grafici e dei pattern: Molti trader utilizzano l'analisi tecnica per identificare pattern grafici e livelli di supporto e resistenza significativi. Questi possono includere linee di tendenza, livelli di Fibonacci, medie mobili, oscillatori e altri strumenti di analisi tecnica.

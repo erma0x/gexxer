@@ -1,0 +1,10 @@
+
+    Entry-level web developer
+    Junior DevOps engineer
+    Entry-level cloud engineer
+    Entry-level mobile app developer 
+    Junior data analyst
+    Entry-level data scientist
+    Junior data engineer
+    Entry-level machine learning engineer
+    Entry-level software engineer

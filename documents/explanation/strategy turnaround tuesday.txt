@@ -1,0 +1,6 @@
+Turnaround tuesday strategy
+    Today is Monday.
+    The close must be at least 1% lower than Friday’s close.
+    If one and two are true, then enter at the close.
+    Exit at the close on Tuesday.
+

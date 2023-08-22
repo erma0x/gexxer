@@ -1,0 +1,9 @@
+vendita put^call almeno 60 giorni prima della scadenza
+
+premio calcolato come media fra ask e bid moltiplicato per 100
+
+delta basso *sotto 0.2
+
+alto Open Interest
+
+alto volumi
