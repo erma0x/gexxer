@@ -8,8 +8,19 @@
 
 ![](https://github.com/erma0x/gexxer/blob/main/documents/plot%20output/Screenshot%20from%202023-05-30%2000-18-14.png)
 
-### Mathematical model of GEX
 
+### Market Movement Analysis with
+- Gex levels used as supports and resistences.
+- Trend following.
+- Fibonacci Retreacements
+- Elliot Waves
+- VIX
+- Wychoff Supply and Demand
+- Strike Price Delta Neutral
+- Yahoo Finance's Option Chain
+
+
+### Mathematical model of GEX
 ```
 GEX = (open interest calls * calls gamma) - (open interest puts * puts gamma)
 ```
