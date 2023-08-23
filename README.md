@@ -1,4 +1,4 @@
-# **GEXXER**
+# **GEXXER** ⚔️
 ## Reveal the most important GEX levels on the Yahoo Option Chain data
 
 ### Example of GEX levels
